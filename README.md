@@ -1,2 +1,3 @@
 # Codigos-em-Python
-print (type(hello world))
+print ('hello world')
+
